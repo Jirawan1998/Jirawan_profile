@@ -6,25 +6,29 @@
 - Dean's Award 2021: Excellence in Academic Activities, Innovation or Creativity
 
 ## Portfolio
-#### Superstore Sales Analytics with Tableau
+#### Superstore Sales Analytics with Tableau 
 - Demonstrating the performance of superstore's sales trends over time, identify periods of high or low sales, and compare them against each other to understand the relationship between sales, profit, and quantity.
 - Observing the Superstore chain's revenue growth across different regions, products, and time period.
 - Providing insights into which categories in the Superstore generate the most or least revenue by visualizing sales data for each category.
+[Link](https://public.tableau.com/views/SuperstoreSalesDashboard_16896816266740/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 #### RFM and Customers Segmentation with SQL and Tableau 
 - Analyzing sales data about customer transactions, purchase patterns, and other behaviors.
 - Customizing and separating customer base into various groups according RFM scores.
 - Visualizing segment to identify different customer groups, such as loyal, active, potential churners, new customer, slipping away and lost customer
+[Link](https://github.com/Jirawan1998/Portfolio/tree/main/rfm_sql)
 
 #### HR Analytics with SQL and Tableau 
 - Understanding the information about your workforce's composition in terms of gender, race, location, and age groups to evaluate the organization's diversity.
 - Examining how the employee count in the company has changed over time to comprehend the yearly changes in the company's workforce based on hires and terminations.
 - Evaluating insights into which departments have higher turnover rates, and categorized causes of turnover.
+[Link](https://github.com/Jirawan1998/Portfolio/tree/main/hr_analytics_sql)
 
 #### Los Angeles Crime with Python Data Exploration 
 - Exploring crime statistics that provide information about the dynamics of cities and the pattern of criminal activity.
 - Demonstrating the frequency of crimes in Los Angeles crime incidents over the years, months, and days to  identify  when or where crimes tend to occur most frequently.
 - Analyzing crime during the period to identify trends and patterns in criminal activity to understand crime rates increasing, decreasing, or stabilizing in different areas.
+[Link](https://github.com/Jirawan1998/Portfolio/tree/main/los_angeles_crm_python)
 
 ## Certificate  
 - Data Camp
