@@ -1,5 +1,5 @@
 # PROFILE
-
+I am passionate about data analysis and business analysis, which have sparked my interest in learning more about their insights and broadened my horizons. I think about everything that happened to me as challenging. Moreover, I love to learn new skills to improve myself, and be a better version of myself.
 
 ## Education
 #### Thammasat University
