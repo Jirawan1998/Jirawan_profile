@@ -96,7 +96,7 @@ I am passionate about data analysis and business analysis, which have sparked my
 - Parade Staff of the 74th CU-TU Traditional Football
 
 ## Contacts
-**Address**: Khlong Thanon, Sai Mai, Bangkok 10220, Thailand 
+**Address**: 2/282 Soi Phahon Yothin 52, Khlong Thanon, Sai Mai, Bangkok 10220, Thailand
 
 **E-mail**: jirawan.makpong@gmail.com
 
