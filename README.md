@@ -53,7 +53,7 @@ I am passionate about data analysis and business analysis, which have sparked my
 - Microsoft Office (Word, Excel and PowerPoint)
 - SQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly)
-- Tableau Public
+- Tableau 
 
 #### Languages
 - English
