@@ -61,25 +61,25 @@ I am passionate about data analysis and business analysis, which have sparked my
 - Chinese
 
 ## Extracurricular Activities
-#### Vice President of Public Relations Committee (2019)
+#### Vice President of Public Relations Committee (_2019_)
 - Created infographics to publicize the student council's news at  the public relations location of the university and on social media.
 - Being an admin of the student council's Facebook page to post various information and news.
 - Controlled operations that required media through electronic devices throughout the activities
 
-#### Deputy Secretary of Thammasat University Student Council Rangsit Campus (2019-2020)
+#### Deputy Secretary of Thammasat University Student Council Rangsit Campus (_2019-2020_)
 - Created meeting agendas, minutes of meetings and complaint letters to be sent to relevant authorities.
 - Cooperated with other agencies to facilitate student council members to submit their request for an activity and get approval.
 
-#### Registration Leader of Political Science Orientation for New Students (2021)
+#### Registration Leader of Political Science Orientation for New Students (_2021_)
 - Prepared registration forms, assembling participant lists, and organizing any needed documents for the activity
 - Contacted and coordinated with shirt manufacturers to purchase and produce shirts for attendees and staff.
 
-Treasurer of the Student Council at the Faculty of Political Science (2021)
+#### Treasurer of the Student Council at the Faculty of Political Science (_2021_)
 - Organized project management and student project budget disbursement documentation. 
 - Managed the financial accounts for the Political Science Student Council's expenditure and fundraising plans.
 
 #### Others
-##### 2019
+*2019*
 - Coordinator of the Rector's Meeting with Student Projects
 - Receptionist Staff of Wai Khru Ceremony 2019
 - Parade Staff of TU Freshy Games 2019
@@ -89,7 +89,7 @@ Treasurer of the Student Council at the Faculty of Political Science (2021)
 - Graphic Design and Public Relations Staff of The Election Talks
 - Location Staff of the 70th Anniversary of the Faculty of Political Science
 
-##### 2020
+*2020*
 - Coordinator of Light and Sound Show, TU Orientation for New Students
 - Sponsor Procurement Staff of Political Science First Meet
 - Receptionist Staff of Wai Khru Ceremony 2020
