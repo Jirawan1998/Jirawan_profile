@@ -6,7 +6,7 @@
 - Dean's Award 2021: Excellence in Academic Activities, Innovation or Creativity
 
 ## Portfolio
-#### Superstore Sales Analytics with Tableau 
+***Superstore Sales Analytics with Tableau***
 - Demonstrating the performance of superstore's sales trends over time, identify periods of high or low sales, and compare them against each other to understand the relationship between sales, profit, and quantity.
 - Observing the Superstore chain's revenue growth across different regions, products, and time period.
 - Providing insights into which categories in the Superstore generate the most or least revenue by visualizing sales data for each category.
@@ -60,7 +60,7 @@
 #### Languages
 - English
 - Chinese
-- 
+
 ## Extracurricular Activities
 #### Vice President of Public Relations Committee (2019)
 - Created infographics to publicize the student council's news at  the public relations location of the university and on social media.
