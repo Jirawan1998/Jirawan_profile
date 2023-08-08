@@ -95,4 +95,11 @@ I am passionate about data analysis and business analysis, which have sparked my
 - Receptionist Staff of Wai Khru Ceremony 2020
 - Parade Staff of the 74th CU-TU Traditional Football
 
+## Contacts
+**Address**: Khlong Thanon, Sai Mai, Bangkok 10220, Thailand 
+
+**E-mail**: jirawan.makpong@gmail.com
+
+**LinkedIn**: [www.linkedin.com/in/jirawan-makpong](www.linkedin.com/in/jirawan-makpong)
+
 
