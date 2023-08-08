@@ -1,7 +1,7 @@
 # PROFILE
-
 ## Education
-#### Bachelor of Political Science, Thammasat University (Aug 2018 - May 2022)
+#### Thammasat University
+#### Bachelor of Political Science,International Affairs (Aug 2018 - May 2022)
 - Graduated with second class honors
 - Dean's Award 2021: Excellence in Academic Activities, Innovation or Creativity
 
@@ -45,6 +45,18 @@
 - Adaptability
 - Ability to work independently
 
+#### Technical Skills
+- Google Products (Spreadsheet, Docs and Slides)
+- Microsoft Office (Word, Excel and PowerPoint)
+- SQL
+- Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly)
+- R 
+- Tableau Public
+
+#### Languages
+- English
+- Chinese
+- 
 ## Extracurricular Activities
 #### Vice President of Public Relations Committee (2019)
 - Created infographics to publicize the student council's news at  the public relations location of the university and on social media.
