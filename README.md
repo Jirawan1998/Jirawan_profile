@@ -49,12 +49,13 @@ I'm passionate about data analysis and marketing, driven by a relentless desire 
 - Ability to work independently
 
 #### Technical Skills
-- Google Products (Spreadsheet, Docs and Slides)
+- Google Products (Spreadsheets, Docs and Slides)
 - Microsoft Office (Word, Excel and PowerPoint)
 - SQL
 - Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly)
 - R
-- Tableau 
+- Tableau
+- Google Data Studio
 
 #### Languages
 - English
