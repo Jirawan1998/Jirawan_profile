@@ -1,5 +1,5 @@
 # PROFILE
-I am passionate about analysis, which have sparked my interest in learning more about their insights and broadened my horizons. I think about everything that happened to me as challenging. Moreover, I love to learn new skills to improve myself, and be a better version of myself.
+I'm passionate about data analysis and marketing, driven by a relentless desire for self-improvement. I actively self-educate in these fields, devouring resources and participating in hands-on projects. This pursuit not only expands my horizons but also equips me to adapt to evolving market trends and consumer behaviors
 
 ## Education
 #### Thammasat University
