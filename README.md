@@ -1,5 +1,5 @@
 # PROFILE
-I'm passionate about data analysis and marketing, driven by a relentless desire for self-improvement. I actively self-educate in these fields, devouring resources and participating in hands-on projects. This pursuit not only expands my horizons but also equips me to adapt to evolving market trends and consumer behaviors
+I am passionate about data analysis and marketing, driven by a relentless desire for self-improvement. I actively self-educate in these fields, devouring resources and participating in hands-on projects. This pursuit not only expands my horizons but also equips me to adapt to evolving market trends and consumer behaviors
 
 ## Education
 #### Thammasat University
