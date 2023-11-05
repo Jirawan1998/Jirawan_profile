@@ -1,5 +1,5 @@
 # PROFILE
-I am passionate about data analysis and marketing, driven by a relentless desire for self-improvement. I actively self-educate in these fields, devouring resources and participating in hands-on projects. This pursuit not only expands my horizons but also equips me to adapt to evolving market trends and consumer behaviors
+I am a passionate individual with a deep appreciation for personal growth and learning. I've had diverse experiences that have shaped my perspective and made me resilient and adaptable. I value meaningful connections and strive to make a positive impact on the world. Life, to me, is an ongoing journey of discovery.
 
 ## Education
 #### Thammasat University
@@ -55,6 +55,7 @@ I am passionate about data analysis and marketing, driven by a relentless desire
 - Python (Pandas, NumPy, Matplotlib, Seaborn and Plotly)
 - R
 - Tableau
+- Power BI
 - Google Data Studio
 
 #### Languages
